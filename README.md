@@ -39,11 +39,11 @@ I'm not a traditional coder — I'm a **Vibe Coder**. I build **high-performance
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kodelyx&theme=tokyonight" width="90%"/>
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kodelyx&theme=tokyonight" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kodelyx&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kodelyx&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=kodelyx&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kodelyx&theme=tokyonight&layout=compact&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <br/>
