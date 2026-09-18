@@ -2,7 +2,7 @@
 
 # Hey, I'm Akash 👋
 
-**Not a Coder — I'm a Vibe Coder 🎯**
+**Vibe Coder — I build systems that run themselves 🎯**
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&random=false&width=500&height=30&lines=I+build+systems+that+run+themselves+%F0%9F%94%A5;Go+%E2%80%A2+Next.js+%E2%80%A2+Docker+%E2%80%A2+Automation+%E2%80%A2+APIs" alt="Typing SVG" /></a>
 
@@ -18,12 +18,13 @@
 
 ### 👋 About Me
 
-I'm not a traditional coder — I'm a **Vibe Coder**. I build **high-performance backends**, **AI automation pipelines**, and **self-hosted tools** that just work — no hand-holding needed.
+I'm a **Vibe Coder**. I don't hand-write boilerplate — I direct it, ship it, and move on to the next thing. Give me a problem and I'll have a working system deployed before most people finish scoping it.
 
-* 🔧 I write most of my backends in **Go** — fast, compiled, zero-dependency binaries
-* 🤖 I build **autonomous AI agents** that handle full video production pipelines end-to-end
+* 🔧 **Go** is my default for backends — compiled, zero-dependency, fast
+* 🤖 I build **autonomous AI agents** that run full pipelines end-to-end
 * 🐳 Everything I ship runs in **Docker** — one command, done
-* ⚡ I reverse-engineer APIs and build free, open alternatives
+* ⚡ I reverse-engineer APIs and ship free, open alternatives
+* 🏗️ I'd rather build the tool than wait for one to exist
 
 ---
 
@@ -58,11 +59,15 @@ I'm not a traditional coder — I'm a **Vibe Coder**. I build **high-performance
 
 ---
 
+### 🔗 Connect
+
 <div align="center">
 
-<a href="mailto:infotecha189@gmail.com"><img src="https://img.shields.io/badge/Email-infotecha189@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/kodelyx"><img src="https://img.shields.io/badge/GitHub-kodelyx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/akash-yadav-773720280/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/akash-yadav-773720280/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:infotecha189@gmail.com"><img src="https://img.shields.io/badge/Email-infotecha189@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
