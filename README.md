@@ -28,6 +28,37 @@ I'm a **Vibe Coder**. I don't hand-write boilerplate — I direct it, ship it, a
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/kodelyx/flow-agent">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kodelyx&repo=flow-agent&theme=tokyonight&hide_border=true&cache_seconds=86400" width="400" alt="flow-agent" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/kodelyx/free-gemini-api">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kodelyx&repo=free-gemini-api&theme=tokyonight&hide_border=true&cache_seconds=86400" width="400" alt="free-gemini-api" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/kodelyx/unlimited-gemini">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kodelyx&repo=unlimited-gemini&theme=tokyonight&hide_border=true&cache_seconds=86400" width="400" alt="unlimited-gemini" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/kodelyx/instagram-lead-generator">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kodelyx&repo=instagram-lead-generator&theme=tokyonight&hide_border=true&cache_seconds=86400" width="400" alt="instagram-lead-generator" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Tech Stack
 
 * **Languages:** `Go` `TypeScript` `Python` `Node.js`
